@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="repohelper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/repohelper_jar</output-path>
+    <root id="archive" name="repohelper.jar">
+      <element id="module-output" name="repohelper" />
+    </root>
+  </artifact>
+</component>
